@@ -8,6 +8,14 @@ This was created for an Uni project in Assembly.
   Green - Removes 600 delay  
   All of these remove delay which means snake moves faster.  
   There's a function that every 2 minutes also removes delay.  
+  You can use from F1-F8 keys to change snake's color.  
+  PRNG is there for generating stars but it's pretty bad implemented.  
 
+  How to run it?  
+  
+  Download the MS-DOS emulator 
+  Source: https://www.dosbox.com/download.php?main=1  
+  
 
+  
 
