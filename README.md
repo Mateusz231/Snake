@@ -10,6 +10,7 @@ This was created for an Uni project in Assembly.
   There's a function that every 2 minutes also removes delay.  
   You can use from F1-F8 keys to change snake's color.  
   Game ends when you collect all stars.  
+  You can only move by using arrows on your keyboard.  
   There is no collision for snake so it can't die.  
   PRNG is there for generating stars but it's pretty bad implemented.  
 
